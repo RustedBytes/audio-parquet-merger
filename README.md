@@ -21,3 +21,5 @@ tags:
   - speech-processing
 ---
 ```
+
+PS: maybe I'll rewrite it in Rust in the future. For now, it's okay for my scientific research...
