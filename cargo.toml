@@ -1,0 +1,10 @@
+[package]
+name = "audio-parquet-merger"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.100"
+clap = { version = "4.5.49", features = ["derive"] }
+polars = { version = "0.51", features = ["lazy", "parquet"] }
+polars-parquet = "0.51.0"
